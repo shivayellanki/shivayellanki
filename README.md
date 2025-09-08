@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivayellanki
 - 👀 I’m interested in ...web dev
-- 🌱 I’m currently learning ...PYTHON
+- 🌱 I’m currently learning ... Python
 - 📫 How to reach me shivayellanki08@gmail.com
 
 <!---

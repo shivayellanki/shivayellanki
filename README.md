@@ -10,15 +10,14 @@ I enjoy building full-stack web applications and understanding how systems work 
 • Building full-stack projects<br>
 • Strengthening backend fundamentals<br>
 • Improving problem-solving and DSA<br><br>
-
 Always learning, building, and improving.
 
 
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-yellanki-7004b5304)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivayellanki08@gmail.com)
 
+ 
 
 # 💻 Tech Stack
 

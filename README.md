@@ -1,21 +1,24 @@
-Full-Stack Web Developer | Building end-to-end web applications
-I enjoy building full-stack web applications and understanding how systems work from frontend to backend.
-🛠️ Tech Stack
-• Frontend: React, HTML, CSS, Tailwind CSS, Bootstrap
-• Backend: Node.js, Express.js
-• Database: MySQL
-• Tools: Git, GitHub, Postman, Axios
-• Language: JavaScript, Python
-🚀 Currently focused on:
-• Building full-stack projects
-• Strengthening backend fundamentals
-• Improving problem-solving and DSA
+Full-Stack Web Developer | Building end-to-end web applications<br>
+I enjoy building full-stack web applications and understanding how systems work from frontend to backend.<br><br>
+🛠️ <b>Tech Stack</b><br>
+• Frontend: React, HTML, CSS, Tailwind CSS, Bootstrap<br>
+• Backend: Node.js, Express.js<br>
+• Database: MySQL<br>
+• Tools: Git, GitHub, Postman, Axios<br>
+• Language: JavaScript, Python<br><br>
+🚀 <b>Currently focused on:</b><br>
+• Building full-stack projects<br>
+• Strengthening backend fundamentals<br>
+• Improving problem-solving and DSA<br><br>
 
 Always learning, building, and improving.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/shiva-yellanki-7004b5304) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](shivayellanki08@gmail.com) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-yellanki-7004b5304)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivayellanki08@gmail.com)
+
 
 # 💻 Tech Stack
 
